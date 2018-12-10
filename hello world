@@ -1,0 +1,5 @@
+print("hello world")
+for in range (9):
+  print(i)
+  
+  
